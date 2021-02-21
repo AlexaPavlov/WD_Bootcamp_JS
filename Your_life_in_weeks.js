@@ -28,7 +28,7 @@ function checkDaysLeft( yearsLeft ) {
     var monthsLeft = yearsLeft * 12;
 
     console.log( "You have " + daysLeft + " days left, " + weeksLeft + " weeks left and " + monthsLeft + " months left!!" );
-    console.log( "The number of leap years are " + leapYears );
+    console.log( "The number of leap years is " + leapYears );
 }
 
 checkLifeLeft( 56 );
